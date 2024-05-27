@@ -1,5 +1,12 @@
 # HomeHaven: Property management app
 
+## -> [Website Link](https://homehaven-6dn8mdnjk-radeefchowdhurys-projects.vercel.app/) 
+## -> [Figma Link](https://www.figma.com/design/MmmioyTJKUM8Dhgha17RkG/Home-Haven?node-id=9-41&t=oEJ2E4SI7svQTLf2-1)
+
+![image](https://github.com/FehamIsmail/HomeHaven/assets/57361300/9ececefd-19cf-4e91-8c86-e87a0eb9bd08)
+
+
+
 ## [presentation slides link](https://docs.google.com/presentation/d/1uX_45w4o6KepGUwLM-cZ5AvdC38_Q6bztwcTA7tmNqg/edit?usp=sharing)
 ## team news
 - most docs are now fully transcribed to wiki -e
